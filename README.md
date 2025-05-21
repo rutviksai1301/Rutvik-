@@ -10,6 +10,10 @@ I am happy to help
 
 Technical Skills
 💻 Programming Languages: Python, Java, JavaScript, C++, SQL
+
+
 🚀 Frameworks & Libraries: TensorFlow, PyTorch, Scikit-learn, React, Flask
 🗄️ Databases: MongoDB, MySQL, PostgreSQL
+
+
 ⏱️ Workflow & Tools: Git, Docker, Jupyter, VS Code, AWS
