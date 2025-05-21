@@ -2,7 +2,8 @@ Hey 👋, I'm Rutvik!
 Hi, I'm Rutvik Sai Mittapalli, a graduate student from UMass Dartmouth 🚀 from Massachusetts. I'm a Computer Science Enthusiast 👨‍💻
 Talking about Personal Stuffs:
 
-💬 Ask me about anything, I am happy to help
+💬 Ask me about anything, 
+I am happy to help
 📫 How to reach me: mittapallirutviksai@gmail.com
 🌱 I'm currently learning more about AI/ML
 💼 I am passionate about work
